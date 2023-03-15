@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 today is my viva
 (15 march 2023)
+=======
+today is my viva
+>>>>>>> parent of c11a9cb (third commit)
